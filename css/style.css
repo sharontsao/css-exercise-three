@@ -14,17 +14,17 @@ nav {
   background-color: #000000;
 }
 .arrow {
-  width: 5%;
+  width: 1px;
   float: left;
 }
 
 .restaurant-list {
-  padding-top: 30px;
+  padding-top: 60px;
   width: 100%;
   background-color: #dbd9db;
 }
 .location {
-  padding: 10%;
+  padding: 20px 30px 60px;
   display: block float: left;
   border-color: #7e7c7e;
   border-bottom: solid;
